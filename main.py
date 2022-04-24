@@ -1,7 +1,6 @@
 from tkinter import Tk
 from tkinter import filedialog, messagebox
 import os, sys
-import win32gui
 import re
 
 # 一些正则表达式
