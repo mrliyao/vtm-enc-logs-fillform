@@ -1,0 +1,7 @@
+# Pycharm IDE
+.idea/
+
+# exe package
+packexe/
+
+dev.py
